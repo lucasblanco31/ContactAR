@@ -68,5 +68,4 @@ mlflow.end_run()
 
 [MLflow - API](https://www.mlflow.org/docs/latest/python_api/mlflow.html).  
 [MLflow.sklearn - API](https://www.mlflow.org/docs/latest/python_api/mlflow.sklearn.html).
-
-
+[MLflow on Google Cloud Platform](https://medium.com/faun/mlflow-on-google-cloud-platform-cd8c9b04a2d8).
